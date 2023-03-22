@@ -1,0 +1,27 @@
+Tempo de percorrer o trajeto total do Carro:
+tempoCarro = distancia/velocidadeCarro
+	   = 100 / 110
+           = 0,9 horas
+
+Tempo de precorrer o trajeto total do caminhão:
+tempoCaminhao = distancia/velocidadeCaminhao
+              = 100 / 80
+              = 1,5 horas
+
+Incluir pedágio no tempo do caminhão:
+2 paradas de 5 minutos = aproximadamente 0,17 horas
+Tempo total caminhão: 1,5 + 0,17 = 1,67
+
+
+Calcular distancia percorrida carro:
+distanciaCarro = tempoCarro x velocidadeCarro
+               = 0,9 x 110
+               = 99km
+
+Calcular distancia percorrida caminhão:
+distanciaCaminhão = tempoCaminhão x velocidadeCaminhão
+               = 1,67 x 80
+               = 133,6km
+
+Portanto, o caminhão estará mais proximo a cidade de Ribeirão Preto
+
